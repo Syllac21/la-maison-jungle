@@ -1,6 +1,7 @@
 import Banner from './Banner';
 import Cart from './Cart.js';
 import ShoppingList from './ShoppingList';
+
 import Footer from './Footer.js';
 import logo from '../assets/logo.png';
 import '../styles/Layout.css';
